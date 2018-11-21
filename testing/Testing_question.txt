@@ -1,0 +1,3 @@
+What is the model of development software ?
+What standard we are following ?
+Metric that helps determine when a system is qdequately tested ?
